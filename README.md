@@ -2,7 +2,7 @@
 
 <!-- ABOUT THE PROJECT -->
 
-## About The Project
+### About The Project
 
 <img src="https://koresoftware.com/wp-content/uploads/2019/08/KONNECT_700.png"/>
 The Konnect product leverages an internal facing administration portal we have built to aid KORE employees to manage the products client base. The KONNECT Admin Portal (KAP) currently provides the internal members the ability to create, update and read the products client list as well as customize the configurations for the individual client by turning on/off different setting toggles. We want to expand the functionality of the KAP to also help us manage the product's caches.
